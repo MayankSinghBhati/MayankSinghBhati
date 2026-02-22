@@ -19,7 +19,7 @@ This is where I document my progress. Projects, experiments, and systems I build
 
 ## A Bit About Me
 
-- Interested in AI systems and intelligent problem solving  
-- Focused on building real projects, not just consuming tutorials  
-- Working toward becoming a strong applied AI engineer  
-- I prefer simple, clean, and structured systems  
+- 🧠 Interested in AI systems and intelligent problem solving  
+- 🛠 Focused on building real projects, not just watching tutorials  
+- 📈 Working toward becoming a strong applied AI engineer  
+- ⚙️ I prefer simple, clean, and structured systems  
