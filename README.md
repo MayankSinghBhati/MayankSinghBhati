@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm Mayank, an engineering student focused on Artificial Intelligence.
 
-<!--
-**MayankSinghBhati/MayankSinghBhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now I'm building my foundation in Python, problem solving, and core programming concepts before moving deeper into applied machine learning.
 
-Here are some ideas to get you started:
+This is where I document my progress. Projects, experiments, and systems I build while learning to design intelligent solutions from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools & Tech
+
+- Python
+- Git & GitHub
+- VS Code
+
+(Expanding into NumPy, Pandas, and machine learning soon.)
+
+---
+
+## A Bit About Me
+
+- Interested in AI systems and intelligent problem solving  
+- Focused on building real projects, not just consuming tutorials  
+- Working toward becoming a strong applied AI engineer  
+- I prefer simple, clean, and structured systems  
