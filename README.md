@@ -13,6 +13,7 @@ This is where I document my learning journey, projects, experiments, and systems
 - Python
 - NumPy
 - Pandas
+- SQL
 - Scikit-learn
 - Git & GitHub
 - VS Code
